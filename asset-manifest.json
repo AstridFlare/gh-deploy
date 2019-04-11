@@ -1,0 +1,14 @@
+{
+  "main.css": "/gh-deploy/static/css/main.4d6ada88.chunk.css",
+  "main.js": "/gh-deploy/static/js/main.d15b0620.chunk.js",
+  "main.js.map": "/gh-deploy/static/js/main.d15b0620.chunk.js.map",
+  "runtime~main.js": "/gh-deploy/static/js/runtime~main.56966732.js",
+  "runtime~main.js.map": "/gh-deploy/static/js/runtime~main.56966732.js.map",
+  "static/js/2.6efc73d3.chunk.js": "/gh-deploy/static/js/2.6efc73d3.chunk.js",
+  "static/js/2.6efc73d3.chunk.js.map": "/gh-deploy/static/js/2.6efc73d3.chunk.js.map",
+  "index.html": "/gh-deploy/index.html",
+  "precache-manifest.e51d7c700aadcd6959e17eae71251570.js": "/gh-deploy/precache-manifest.e51d7c700aadcd6959e17eae71251570.js",
+  "service-worker.js": "/gh-deploy/service-worker.js",
+  "static/css/main.4d6ada88.chunk.css.map": "/gh-deploy/static/css/main.4d6ada88.chunk.css.map",
+  "static/media/logo.svg": "/gh-deploy/static/media/logo.5d5d9eef.svg"
+}
